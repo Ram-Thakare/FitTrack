@@ -51,29 +51,28 @@ The application helps users track workouts, cardio activities, sleep records, an
 ## Screenshots
 
 ### Login Page
+![Login](screenshots/Login.png)
 
-![Login Page](screenshots/login.png)
+### Registration Page
+![Registration](screenshots/Registration.png)
 
 ### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Workout Tracking
-
-![Workout](screenshots/workout.png)
+![Workout](screenshots/Workout.png)
 
 ### Cardio Tracking
+![Cardio](screenshots/Cardio.png)
 
-![Cardio](screenshots/cardio.png)
+### Sleep Tracking
+![Sleep](screenshots/Sleep.png)
 
-### Sleep Monitoring
+### Daily Intake Tracking
+![Daily Intake](screenshots/Daily_Intake.png)
 
-![Sleep](screenshots/sleep.png)
-
-### Calorie & Intake Tracking
-
-![Intake](screenshots/intake.png)
-
+### Profile Page
+![Profile](screenshots/Profile.png)
 
 ## Future Improvements
 
