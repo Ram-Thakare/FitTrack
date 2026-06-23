@@ -65,11 +65,11 @@ The application helps users track workouts, cardio activities, sleep records, an
 ### Cardio Tracking
 ![Cardio](screenshots/Cardio.png)
 
-### Sleep Tracking
-![Sleep](screenshots/Sleep.png)
-
 ### Daily Intake Tracking
 ![Daily Intake](screenshots/Daily_Intake.png)
+
+### Sleep Tracking
+![Sleep](screenshots/Sleep.png)
 
 ### Profile Page
 ![Profile](screenshots/Profile.png)
